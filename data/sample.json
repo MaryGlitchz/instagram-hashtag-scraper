@@ -1,0 +1,18 @@
+[
+    {
+        "search_keyword": "#travel",
+        "caption": "#wanderlust #vacation",
+        "user_pk": "123456789",
+        "username": "john_doe",
+        "id": "987654321",
+        "code": "BHwE3LfD9Jk"
+    },
+    {
+        "search_keyword": "#fitness",
+        "caption": "#gym #workout",
+        "user_pk": "987654321",
+        "username": "fitness_guru",
+        "id": "654321987",
+        "code": "CLjX9R4g5O8"
+    }
+]
