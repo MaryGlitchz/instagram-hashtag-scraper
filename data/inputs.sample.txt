@@ -1,0 +1,3 @@
+# Example input text file
+# Add the list of hashtags you want to scrape here
+# Example: #travel, #fitness, #food
